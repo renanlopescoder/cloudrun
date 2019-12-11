@@ -1,4 +1,4 @@
-## # Serverless with Google Cloud Platform Cloud Run
+## Serverless with Google Cloud Platform Cloud Run
 
 ### Video Tutorial
 
